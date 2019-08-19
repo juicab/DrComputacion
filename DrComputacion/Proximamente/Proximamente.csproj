@@ -140,6 +140,7 @@
     <None Include="packages.config" />
     <Content Include="Views\Master\Proxi.cshtml" />
     <Content Include="Views\Reparacion\Proximamente.cshtml" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
